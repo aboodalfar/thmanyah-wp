@@ -1,0 +1,14 @@
+:root {
+    --color-white:#ffffff;
+    --color-black: #000000;
+    --color-gray:#666666;
+    --color-gray-bg:#f5f5f5;
+    --color-red:#DB3C1D;
+    --color-green:#52a268;
+    --color-yellow:#f0ca5d;
+    --plyr-color-main:#f62333;
+    
+    --plyr-audio-controls-background:transparent;
+    --plyr-audio-control-color:white;
+    
+}
